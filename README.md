@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
