@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0001-two-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,25 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
