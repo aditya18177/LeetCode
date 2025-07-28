@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
