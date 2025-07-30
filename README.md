@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
