@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
