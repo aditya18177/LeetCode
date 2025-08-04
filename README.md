@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 ## Stack
