@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
+| [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
