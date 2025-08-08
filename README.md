@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0001-two-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 ## Sorting
