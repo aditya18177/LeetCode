@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 ## Memoization
