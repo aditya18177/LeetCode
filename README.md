@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0009-palindrome-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Memoization
 |  |
 | ------- |
