@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
