@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0056-merge-intervals](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
