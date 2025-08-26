@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
