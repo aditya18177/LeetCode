@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0001-two-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
