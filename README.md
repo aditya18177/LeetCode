@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0056-merge-intervals](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0053-maximum-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 ## Stack
