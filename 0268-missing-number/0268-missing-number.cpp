@@ -1,16 +1,14 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_map<int,int> imap;
-        for (int num:nums) {
-            imap[num]++;
+        int x=0;
+        int n=nums.size();
+        for(int i=1;i<=n;i++){
+            x=x^i;
         }
-        for(int i=0;i<nums.size();i++){
-            if(imap.find(i)==imap.end()){
-                return i;
-            }
+        for(int i=0;i<n;i++){
+            x=x^nums[i];
         }
-        return nums.size();
-
+        return x;
     }
 };
