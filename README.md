@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Hash Table
