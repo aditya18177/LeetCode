@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0001-two-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0035-search-insert-position) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0088-merge-sorted-array) |
