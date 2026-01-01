@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0048-rotate-image](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0075-sort-colors) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
