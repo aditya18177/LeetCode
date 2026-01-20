@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0169-majority-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0088-merge-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 ## Quickselect
