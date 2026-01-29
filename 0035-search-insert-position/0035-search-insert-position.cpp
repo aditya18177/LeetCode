@@ -1,21 +1,21 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int index=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target){
-                index=i;
-                break;
+        int n=nums.size();
+        int low=0;
+        int high=n-1;
+        int index=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                return mid;
+            }else if(nums[mid]<target){
+                index=mid;
+                low=mid+1;
+            }else{
+                high=mid-1;
             }
-            else if(nums[i]>target){
-                index=i;
-                break;
-            }
-            else{
-                index=nums.size();
-            }
-
         }
-        return index;
+        return index+1;
     }
 };
