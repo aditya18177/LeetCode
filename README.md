@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0283-move-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0410-split-array-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
