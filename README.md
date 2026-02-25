@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 ## Union Find
 |  |
 | ------- |
