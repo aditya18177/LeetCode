@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
