@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0875-koko-eating-bananas](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
