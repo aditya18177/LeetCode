@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
+| [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
