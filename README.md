@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
+| [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
