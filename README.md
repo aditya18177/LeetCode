@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
