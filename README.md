@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 ## Union Find
