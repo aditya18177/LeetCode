@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3516-find-closest-person) |
