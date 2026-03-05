@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
