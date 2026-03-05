@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
