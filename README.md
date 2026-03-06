@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1572-matrix-diagonal-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
