@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0074-search-a-2d-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
