@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
