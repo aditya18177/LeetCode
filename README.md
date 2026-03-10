@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2119-a-number-after-a-double-reversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2485-find-the-pivot-integer) |
