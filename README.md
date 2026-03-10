@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
