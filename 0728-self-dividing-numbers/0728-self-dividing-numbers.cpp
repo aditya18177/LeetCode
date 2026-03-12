@@ -8,11 +8,7 @@ public:
             while(x>0){
                 int d=x%10;
                 x=x/10;
-                if(d==0){
-                    b=false;
-                    break;
-                } 
-                if(i%d!=0){
+                if(d==0 || i%d!=0){
                     b=false;
                     break;
                 }
