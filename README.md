@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0070-climbing-stairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
