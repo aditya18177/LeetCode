@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1678-goal-parser-interpretation](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1323-maximum-69-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Brainteaser
 |  |
 | ------- |
