@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 | [1678-goal-parser-interpretation](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
