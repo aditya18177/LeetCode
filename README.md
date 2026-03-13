@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
