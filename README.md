@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Brainteaser
 |  |
 | ------- |
