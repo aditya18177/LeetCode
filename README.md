@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3683-earliest-time-to-finish-one-task](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
