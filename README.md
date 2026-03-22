@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2427-number-of-common-factors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
@@ -422,5 +424,6 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
