@@ -1,23 +1,18 @@
 class Solution {
 public:
-    bool isIsomorphic(string s, string t) {
-        unordered_map<char,char> stot;
-        unordered_map<char,char> ttos;
+    bool test(string s,string t){
+        unordered_map<char,char> frq;
         int n=s.length();
         for(int i=0;i<n;i++){
-            char a=s[i];
-            char b=t[i];
-            if(stot.find(a)==stot.end()){
-                stot[a]=b;
-            }else{
-                if(stot[a]!=b) return false;
+            if(frq.find(s[i])==frq.end()){
+                frq[s[i]]=t[i];
+                continue;
             }
-            if(ttos.find(b)==ttos.end()){
-                ttos[b]=a;
-            }else{
-                if(ttos[b]!=a) return false;
-            }
+            if(frq[s[i]]!=t[i]) return false;
         }
         return true;
+    }
+    bool isIsomorphic(string s, string t) {
+        return test(s,t) && test(t,s);
     }
 };
