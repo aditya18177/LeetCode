@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
 | [1678-goal-parser-interpretation](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1678-goal-parser-interpretation) |
@@ -430,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [2427-number-of-common-factors](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
