@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
