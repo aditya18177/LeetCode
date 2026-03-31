@@ -11,23 +11,12 @@ public:
         value['M']=1000;
         int sum=0;
         int n=s.length()-1;
-        for(int i=n;i>=0;i--){
-            if(i>=1 && (s[i]=='V' || s[i]=='X') && s[i-1]=='I'){
-                sum+=value[s[i]]-1;
-                i--;
-                continue;
+        for(int i=0;i<=n;i++){
+            if(i<n && value[s[i]]<value[s[i+1]]){
+                sum-=value[s[i]];
+            }else{
+                sum+=value[s[i]];
             }
-            if(i>=1 && (s[i]=='L' || s[i]=='C') && s[i-1]=='X'){
-                sum+=value[s[i]]-10;
-                i--;
-                continue;
-            }
-            if(i>=1 && (s[i]=='D' || s[i]=='M') && s[i-1]=='C'){
-                sum+=value[s[i]]-100;
-                i--;
-                continue;
-            }
-            sum+=value[s[i]];
         }
         return sum;
     }
