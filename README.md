@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3794-reverse-string-prefix) |
+| [3856-trim-trailing-vowels](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3856-trim-trailing-vowels) |
 ## Sorting
 |  |
 | ------- |
