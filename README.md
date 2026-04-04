@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Union Find
 |  |
 | ------- |
