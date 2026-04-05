@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
