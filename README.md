@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3788-maximum-score-of-a-split](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3788-maximum-score-of-a-split) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2485-find-the-pivot-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2485-find-the-pivot-integer) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2574-left-and-right-sum-differences) |
+| [3788-maximum-score-of-a-split](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3788-maximum-score-of-a-split) |
 ## Simulation
 |  |
 | ------- |
