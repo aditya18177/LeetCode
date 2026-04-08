@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0205-isomorphic-strings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0242-valid-anagram](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0136-single-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
