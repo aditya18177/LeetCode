@@ -1,11 +1,14 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        for(int i=0;i<s.length();i++){
-            if(t[i]!=s[i]) return t[i];
+        int tsum=0;
+        int ssum=0;
+        for(char c:s){
+            ssum+=c;
         }
-        return t[t.length()-1];
+        for(char c:t){
+            tsum+=c;
+        }
+        return (char)(tsum-ssum);
     }
 };
