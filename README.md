@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
+| [2810-faulty-keyboard](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2810-faulty-keyboard](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
