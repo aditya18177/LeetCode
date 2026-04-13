@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3232-find-if-digit-game-can-be-won](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3783-mirror-distance-of-an-integer) |
