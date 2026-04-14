@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1539-kth-missing-positive-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
+| [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
