@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
