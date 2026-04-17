@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0493-reverse-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0242-valid-anagram](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0242-valid-anagram](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0162-find-peak-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
