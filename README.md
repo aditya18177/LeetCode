@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1773-count-items-matching-a-rule](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2278-percentage-of-letter-in-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2278-percentage-of-letter-in-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
