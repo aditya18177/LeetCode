@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
+| [2032-two-out-of-three](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2032-two-out-of-three) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2032-two-out-of-three](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
 | ------- |
