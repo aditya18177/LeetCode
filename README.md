@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0073-set-matrix-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
