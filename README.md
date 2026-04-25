@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0875-koko-eating-bananas](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2418-sort-the-people](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2418-sort-the-people) |
