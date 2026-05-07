@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2678-number-of-senior-citizens](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2810-faulty-keyboard) |
+| [3174-clear-digits](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1021-remove-outermost-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2810-faulty-keyboard](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
