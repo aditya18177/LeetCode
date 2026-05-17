@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3242-design-neighbor-sum-service](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3242-design-neighbor-sum-service) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3242-design-neighbor-sum-service](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3242-design-neighbor-sum-service) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
 | [1603-design-parking-system](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1603-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3242-design-neighbor-sum-service) |
 ## Math
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [1572-matrix-diagonal-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3242-design-neighbor-sum-service](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3242-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [2810-faulty-keyboard](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3174-clear-digits) |
+| [3242-design-neighbor-sum-service](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
