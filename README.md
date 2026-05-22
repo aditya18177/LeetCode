@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3788-maximum-score-of-a-split) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3861-minimum-capacity-box) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
