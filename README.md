@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0203-remove-linked-list-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0283-move-zeroes](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
