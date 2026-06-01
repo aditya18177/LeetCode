@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0696-count-binary-substrings](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
