@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0231-power-of-two](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
