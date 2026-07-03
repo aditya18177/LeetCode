@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 ## String
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1021-remove-outermost-parentheses) |
