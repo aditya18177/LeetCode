@@ -16,19 +16,17 @@ public:
         if(root==NULL) return ans;
         queue<TreeNode*> q;
         q.push(root);
-        bool toggle=false;
+        bool toggle=true;
         while(!q.empty()){
-            vector<int> arr;
             int n=q.size();
+            vector<int> arr(n);
             for(int i=0;i<n;i++){
                 TreeNode* temp=q.front();
                 q.pop();
-                arr.push_back(temp->val);
+                int index=(toggle)? i:(n-i-1);
+                arr[index]=temp->val;
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
-            }
-            if(toggle){
-                reverse(arr.begin(),arr.end());
             }
             ans.push_back(arr);
             toggle=!toggle;
