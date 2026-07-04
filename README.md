@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0100-same-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0072-edit-distance](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0410-split-array-largest-sum) |
 | [1250-longest-common-subsequence](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1250-longest-common-subsequence) |
