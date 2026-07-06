@@ -25,15 +25,13 @@ public:
         }
     }
 
-    void vertical(TreeNode* root,map<int,vector<TreeNode*>>& final,unordered_map<TreeNode*,pair<int,int>>& mappings){
+    void vertical(TreeNode* root,map<int,map<int,multiset<int>>>& final,unordered_map<TreeNode*,pair<int,int>>& mappings){
         if(root==NULL) return;
         vertical(root->left,final,mappings);
-        final[mappings[root].second].push_back(root);
+        int col=mappings[root].second;
+        int row=mappings[root].first;
+        final[col][row].insert(root->val);
         vertical(root->right,final,mappings);
-    }
-
-    bool comp(TreeNode* a,TreeNode* b,unordered_map<TreeNode*,pair<int,int>>& mappings){
-        return mappings[a].first>mappings[b].second;
     }
 
     vector<vector<int>> verticalTraversal(TreeNode* root) {
@@ -42,20 +40,14 @@ public:
         unordered_map<TreeNode*,pair<int,int>> mappings;
         mappings[root]={0,0};
         mapping(root,mappings);
-        map<int,vector<TreeNode*>> final;
+        map<int,map<int,multiset<int>>> final;
         vertical(root,final,mappings);
         for(auto a:final){
-            vector<TreeNode*> x=a.second;
-            sort(x.begin(), x.end(), [&](TreeNode* a, TreeNode* b) {
-            int rowA=mappings[a].first;
-            int rowB=mappings[b].first;
-            if(rowA==rowB)
-            return a->val<b->val;
-            return rowA<rowB;
-            });
             vector<int> temp;
-            for(auto y:x){
-                temp.push_back(y->val);
+            for(auto x:a.second){
+                for(auto y:x.second){
+                    temp.push_back(y);
+                }
             }
             ans.push_back(temp);
         }
