@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0771-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1748-sum-of-unique-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0349-intersection-of-two-arrays](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
