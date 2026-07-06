@@ -11,27 +11,19 @@
  */
 class Solution {
 public:
+    void helper(TreeNode* root,vector<int>& ans,int lvl){
+        if(root==NULL) return;
+        if(lvl==ans.size()){
+            ans.push_back(root->val);
+        }
+        helper(root->right,ans,lvl+1);
+        helper(root->left,ans,lvl+1);
+    } 
+
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
         if(root==NULL) return ans;
-        queue<pair<TreeNode*,int>> q;
-        q.push({root,0});
-        map<int,int> bt;
-        while(!q.empty()){
-            TreeNode* temp=q.front().first;
-            int lvl=q.front().second;
-            q.pop();
-            bt[lvl]=temp->val;
-            if(temp->left){
-                q.push({temp->left,lvl+1});
-            }
-            if(temp->right){
-                q.push({temp->right,lvl+1});
-            }
-        }
-        for(auto x:bt){
-            ans.push_back(x.second);
-        }
+        helper(root,ans,0);
         return ans;
     }
 };
