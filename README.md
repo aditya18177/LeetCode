@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 | [0189-rotate-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0268-missing-number) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - This repo cons
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/aditya18177/Teacher-s-Day-43-Days-Of-Code/tree/master/1732-find-the-highest-altitude) |
